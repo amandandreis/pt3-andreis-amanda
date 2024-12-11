@@ -1,0 +1,93 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+    margin: 50px;
+}
+
+
+.grid-item {
+    background-color: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease-in-out;
+}
+.grid-item:hover {
+    transform: scale(1.05);
+}
+
+.item-content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    /* height: 300px; */
+}
+
+.item-content a {
+    text-decoration: none;
+}
+
+.image {
+    width: 100%;
+    height: 200px;
+    /* height: 300px; */
+    background-size: cover;
+}
+
+
+
+/* imagenes como background asi siempre ocupa el 100% del div */
+.macarones-con-tomate {
+    background-image: url('../imagenes/MacaronesConTomate.jpeg');
+}
+
+.macarrones-carbonara {
+    background-image: url('../imagenes/macarronescarbonara.jpg');
+}
+
+.macarrones-gorgonzola {
+    background-image: url('../imagenes/MacarronesGorgonzola.jpg');
+}
+
+.macarrones-pesto {
+    background-image: url('../imagenes/MacarronesPesto.jpg');
+}
+
+.macarrones-queso {
+    background-image: url('../imagenes/MacarronesQueso.jpg');
+}
+
+.macarrones-bolonesa {
+    background-image: url('../imagenes/MacarronesBoloñesa.jpg');
+}
+
+.macarrones-chorizo {
+    background-image: url('../imagenes/MacarronesChorizo.jpg');
+}
+
+.macarrones-mayonesa {
+    background-image: url('../imagenes/MacarronesMayonesa.jpg');
+}
+
+.macarrones-picantes {
+    background-image: url('../imagenes/MacarronesPicantes.jpg');
+}
+
+.mijo {
+    background-image: url('../imagenes/mijo.jpg');
+}
+
+.description {
+    padding: 20px;
+    text-align: center;
+}
+
+.description h3 {
+    /* margin-top: -100px; */
+    margin-top: 0;
+}
+
+.description p {
+    font-size: 14px;
+}
