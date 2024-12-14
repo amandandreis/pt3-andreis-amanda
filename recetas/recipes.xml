@@ -1,0 +1,436 @@
+
+<recipes>
+  <recipe id="1">
+    <name>Paella Valenciana</name>
+    <ingredients>
+      <ingredient>Arroz</ingredient>
+      <ingredient>Pollo</ingredient>
+      <ingredient>Conejo</ingredient>
+      <ingredient>Judía verde</ingredient>
+      <ingredient>Garrofó</ingredient>
+      <ingredient>Tomate</ingredient>
+      <ingredient>Azafrán</ingredient>
+      <ingredient>Aceite de oliva</ingredient>
+      <ingredient>Sal</ingredient>
+    </ingredients>
+    <instructions>
+      Calienta aceite en una paellera, sofríe el pollo y el conejo, añade las verduras, el tomate rallado y el arroz.
+      Incorpora el caldo caliente y el azafrán, cocina a fuego medio hasta que el arroz esté en su punto.
+    </instructions>
+  </recipe>
+  <recipe id="2">
+    <name>Tortilla de Patatas</name>
+    <ingredients>
+      <ingredient>Patatas</ingredient>
+      <ingredient>Huevos</ingredient>
+      <ingredient>Cebolla</ingredient>
+      <ingredient>Aceite de oliva</ingredient>
+      <ingredient>Sal</ingredient>
+    </ingredients>
+    <instructions>
+      Pela y corta las patatas y la cebolla en rodajas finas. Fríelas en aceite caliente. Bate los huevos con sal, mezcla
+      con las patatas y cocina en una sartén hasta que esté dorada por ambos lados.
+    </instructions>
+  </recipe>
+  <recipe id="3">
+    <name>Gazpacho Andaluz</name>
+    <ingredients>
+      <ingredient>Tomates</ingredient>
+      <ingredient>Pimiento verde</ingredient>
+      <ingredient>Pepino</ingredient>
+      <ingredient>Ajo</ingredient>
+      <ingredient>Pan</ingredient>
+      <ingredient>Vinagre</ingredient>
+      <ingredient>Aceite de oliva</ingredient>
+      <ingredient>Sal</ingredient>
+    </ingredients>
+    <instructions>
+      Tritura todos los ingredientes con una batidora. Ajusta el aliño al gusto con sal, vinagre y aceite. Sirve frío con
+      trocitos de pan, pepino y pimiento como guarnición.
+    </instructions>
+  </recipe>
+  <recipe id="4">
+    <name>Croquetas de Jamón</name>
+    <ingredients>
+      <ingredient>Leche</ingredient>
+      <ingredient>Harina</ingredient>
+      <ingredient>Mantequilla</ingredient>
+      <ingredient>Jamón serrano</ingredient>
+      <ingredient>Huevo</ingredient>
+      <ingredient>Pan rallado</ingredient>
+      <ingredient>Aceite para freír</ingredient>
+      <ingredient>Sal</ingredient>
+    </ingredients>
+    <instructions>
+      Haz una bechamel espesa con leche, harina y mantequilla, añade el jamón serrano picado. Deja enfriar, forma las
+      croquetas, pásalas por huevo y pan rallado, y fríelas hasta que estén doradas.
+    </instructions>
+  </recipe>
+  <recipe id="5">
+    <name>Pulpo a la Gallega</name>
+    <ingredients>
+      <ingredient>Pulpo</ingredient>
+      <ingredient>Patatas</ingredient>
+      <ingredient>Pimentón</ingredient>
+      <ingredient>Aceite de oliva</ingredient>
+      <ingredient>Sal gruesa</ingredient>
+    </ingredients>
+    <instructions>
+      Cuece el pulpo y las patatas por separado. Corta el pulpo en rodajas, colócalo sobre las patatas y espolvorea con
+      pimentón, sal gruesa y un buen chorro de aceite de oliva.
+    </instructions>
+  </recipe>
+  <recipe id="6">
+    <name>Fabada Asturiana</name>
+    <ingredients>
+      <ingredient>Fabes</ingredient>
+      <ingredient>Chorizo</ingredient>
+      <ingredient>Morcilla</ingredient>
+      <ingredient>Tocino</ingredient>
+      <ingredient>Azafrán</ingredient>
+      <ingredient>Agua</ingredient>
+      <ingredient>Sal</ingredient>
+    </ingredients>
+    <instructions>
+      Remoja las fabes toda la noche. En una olla, cuece las fabes con el chorizo, la morcilla y el tocino. Añade azafrán
+      y sal al gusto, y cocina a fuego lento hasta que estén tiernas.
+    </instructions>
+  </recipe>
+  <recipe id="7">
+    <name>Empanada Gallega</name>
+    <ingredients>
+      <ingredient>Masa de empanada</ingredient>
+      <ingredient>Atún</ingredient>
+      <ingredient>Pimiento rojo</ingredient>
+      <ingredient>Cebolla</ingredient>
+      <ingredient>Tomate</ingredient>
+      <ingredient>Huevo</ingredient>
+      <ingredient>Sal</ingredient>
+    </ingredients>
+    <instructions>
+      Prepara un sofrito con cebolla, pimiento y tomate, añade el atún desmenuzado. Extiende la masa, coloca el relleno y
+      cubre con otra lámina de masa. Hornea hasta que esté dorada.
+    </instructions>
+  </recipe>
+  <recipe id="8">
+    <name>Callos a la Madrileña</name>
+    <ingredients>
+      <ingredient>Callos</ingredient>
+      <ingredient>Chorizo</ingredient>
+      <ingredient>Morcilla</ingredient>
+      <ingredient>Pimiento choricero</ingredient>
+      <ingredient>Laurel</ingredient>
+      <ingredient>Ajo</ingredient>
+      <ingredient>Cebolla</ingredient>
+      <ingredient>Pimentón</ingredient>
+      <ingredient>Sal</ingredient>
+    </ingredients>
+    <instructions>
+      Limpia bien los callos y cocínalos con laurel y ajo. Prepara un sofrito con cebolla, ajo, pimiento choricero y
+      pimentón, añade los callos, el chorizo y la morcilla. Cocina a fuego lento hasta que estén tiernos.
+    </instructions>
+  </recipe>
+  <recipe id="9">
+    <name>Cocido Madrileño</name>
+    <ingredients>
+      <ingredient>Garbanzos</ingredient>
+      <ingredient>Carne de ternera</ingredient>
+      <ingredient>Gallina</ingredient>
+      <ingredient>Tocino</ingredient>
+      <ingredient>Morcillo</ingredient>
+      <ingredient>Chorizo</ingredient>
+      <ingredient>Zanahoria</ingredient>
+      <ingredient>Patatas</ingredient>
+      <ingredient>Fideos</ingredient>
+      <ingredient>Sal</ingredient>
+    </ingredients>
+    <instructions>
+      Remoja los garbanzos toda la noche. Cocina todos los ingredientes menos los fideos en una olla a fuego lento.
+      Retira el caldo y haz la sopa con los fideos. Sirve en tres vuelcos: sopa, garbanzos y carne.
+    </instructions>
+  </recipe>
+     <recipe id="10">
+    <name>Sushi</name>
+    <ingredients>
+      <ingredient>Arroz para sushi</ingredient>
+      <ingredient>Vinagre de arroz</ingredient>
+      <ingredient>Azúcar</ingredient>
+      <ingredient>Sal</ingredient>
+      <ingredient>Alga nori</ingredient>
+      <ingredient>Pescado crudo (atún, salmón)</ingredient>
+      <ingredient>Vegetales (aguacate, pepino)</ingredient>
+      <ingredient>Salsa de soja</ingredient>
+    </ingredients>
+    <instructions>
+      Cocina el arroz y sazónalo con vinagre, azúcar y sal. Coloca una hoja de nori, extiende el arroz y añade los ingredientes. Enrolla y corta en piezas.
+    </instructions>
+  </recipe>
+  <recipe id="11">
+    <name>Ramen</name>
+    <ingredients>
+      <ingredient>Fideos para ramen</ingredient>
+      <ingredient>Caldo de pollo o cerdo</ingredient>
+      <ingredient>Huevo cocido</ingredient>
+      <ingredient>Cebolla verde</ingredient>
+      <ingredient>Alga wakame</ingredient>
+      <ingredient>Chashu (cerdo marinado)</ingredient>
+      <ingredient>Salsa de soja</ingredient>
+      <ingredient>Jengibre</ingredient>
+    </ingredients>
+    <instructions>
+      Prepara el caldo con salsa de soja y jengibre. Cocina los fideos, colócalos en un tazón y vierte el caldo caliente. Añade los ingredientes encima.
+    </instructions>
+  </recipe>
+  <recipe id="12">
+    <name>Tempura</name>
+    <ingredients>
+      <ingredient>Langostinos</ingredient>
+      <ingredient>Verduras (calabacín, berenjena)</ingredient>
+      <ingredient>Harina para tempura</ingredient>
+      <ingredient>Agua fría</ingredient>
+      <ingredient>Aceite para freír</ingredient>
+      <ingredient>Salsa tentsuyu</ingredient>
+    </ingredients>
+    <instructions>
+      Mezcla la harina con agua fría. Sumerge los ingredientes en la masa y fríelos en aceite caliente. Sirve con salsa tentsuyu.
+    </instructions>
+  </recipe>
+  <recipe id="13">
+    <name>Okonomiyaki</name>
+    <ingredients>
+      <ingredient>Harina para okonomiyaki</ingredient>
+      <ingredient>Agua</ingredient>
+      <ingredient>Huevos</ingredient>
+      <ingredient>Repollo</ingredient>
+      <ingredient>Panceta</ingredient>
+      <ingredient>Salsa okonomiyaki</ingredient>
+      <ingredient>Mayonesa</ingredient>
+      <ingredient>Katsuobushi (copos de bonito seco)</ingredient>
+    </ingredients>
+    <instructions>
+      Mezcla los ingredientes en una masa. Cocina en una plancha caliente con panceta encima. Agrega la salsa, mayonesa y katsuobushi antes de servir.
+    </instructions>
+  </recipe>
+  <recipe id="14">
+    <name>Yakitori</name>
+    <ingredients>
+      <ingredient>Pollo en trozos</ingredient>
+      <ingredient>Palillos de bambú</ingredient>
+      <ingredient>Salsa tare</ingredient>
+    </ingredients>
+    <instructions>
+      Ensarta el pollo en los palillos, ásalos a la parrilla y barnízalos con salsa tare mientras se cocinan.
+    </instructions>
+  </recipe>
+  <recipe id="15">
+    <name>Onigiri</name>
+    <ingredients>
+      <ingredient>Arroz japonés</ingredient>
+      <ingredient>Alga nori</ingredient>
+      <ingredient>Relleno (atún, ciruela encurtida)</ingredient>
+      <ingredient>Sal</ingredient>
+    </ingredients>
+    <instructions>
+      Moldea el arroz en forma triangular o redonda, coloca el relleno en el centro y envuelve con una tira de alga nori.
+    </instructions>
+  </recipe>
+  <recipe id="16">
+    <name>Matcha Latte</name>
+    <ingredients>
+      <ingredient>Polvo de matcha</ingredient>
+      <ingredient>Leche</ingredient>
+      <ingredient>Agua caliente</ingredient>
+      <ingredient>Miel o azúcar</ingredient>
+    </ingredients>
+    <instructions>
+      Disuelve el matcha en agua caliente. Calienta la leche y mezcla con el matcha. Endulza al gusto.
+    </instructions>
+  </recipe>
+  <recipe id="17">
+    <name>Miso Soup</name>
+    <ingredients>
+      <ingredient>Pasta de miso</ingredient>
+      <ingredient>Caldo dashi</ingredient>
+      <ingredient>Tofu</ingredient>
+      <ingredient>Alga wakame</ingredient>
+      <ingredient>Cebolla verde</ingredient>
+    </ingredients>
+    <instructions>
+      Calienta el caldo dashi, añade la pasta de miso y disuelve. Agrega el tofu, alga wakame y cebolla verde antes de servir.
+    </instructions>
+  </recipe>
+  <recipe id="18">
+    <name>Tonkatsu</name>
+    <ingredients>
+      <ingredient>Chuletas de cerdo</ingredient>
+      <ingredient>Harina</ingredient>
+      <ingredient>Huevo</ingredient>
+      <ingredient>Pan rallado</ingredient>
+      <ingredient>Aceite para freír</ingredient>
+      <ingredient>Salsa tonkatsu</ingredient>
+    </ingredients>
+    <instructions>
+      Empana las chuletas con harina, huevo y pan rallado. Fríelas en aceite caliente hasta que estén doradas. Sirve con salsa tonkatsu.
+    </instructions>
+  </recipe>
+  <recipe id="19">
+    <name>Udon</name>
+    <ingredients>
+      <ingredient>Fideos udon</ingredient>
+      <ingredient>Caldo dashi</ingredient>
+      <ingredient>Salsa de soja</ingredient>
+      <ingredient>Tempura</ingredient>
+      <ingredient>Cebolla verde</ingredient>
+    </ingredients>
+    <instructions>
+      Cocina los fideos, colócalos en un tazón y vierte el caldo caliente. Añade tempura y cebolla verde encima.
+    </instructions>
+  </recipe>
+  <recipe id="20">
+    <name>Karaage</name>
+    <ingredients>
+      <ingredient>Pollo en trozos</ingredient>
+      <ingredient>Jengibre</ingredient>
+      <ingredient>Salsa de soja</ingredient>
+      <ingredient>Harina</ingredient>
+      <ingredient>Aceite para freír</ingredient>
+    </ingredients>
+    <instructions>
+      Marina el pollo con jengibre y salsa de soja. Reboza en harina y fríe en aceite caliente hasta que esté crujiente.
+    </instructions>
+  </recipe>
+  <recipe id="21">
+    <name>Feijoada</name>
+    <ingredients>
+      <ingredient>Frijoles negros</ingredient>
+      <ingredient>Carne de cerdo</ingredient>
+      <ingredient>Chorizo</ingredient>
+      <ingredient>Cebolla</ingredient>
+      <ingredient>Ajo</ingredient>
+      <ingredient>Laurel</ingredient>
+      <ingredient>Arroz</ingredient>
+      <ingredient>Naranjas</ingredient>
+    </ingredients>
+    <instructions>
+      Cocina los frijoles con la carne, chorizo, cebolla y ajo. Sirve acompañado de arroz y rodajas de naranja.
+    </instructions>
+  </recipe>
+  <recipe id="22">
+    <name>Moqueca</name>
+    <ingredients>
+      <ingredient>Pescado</ingredient>
+      <ingredient>Leche de coco</ingredient>
+      <ingredient>Pimientos</ingredient>
+      <ingredient>Cebolla</ingredient>
+      <ingredient>Ajo</ingredient>
+      <ingredient>Tomates</ingredient>
+      <ingredient>Cilantro</ingredient>
+      <ingredient>Aceite de palma</ingredient>
+    </ingredients>
+    <instructions>
+      Cocina el pescado con leche de coco, vegetales y especias. Sirve caliente con arroz blanco.
+    </instructions>
+  </recipe>
+  <recipe id="23">
+    <name>Pão de Queijo</name>
+    <ingredients>
+      <ingredient>Almidón de tapioca</ingredient>
+      <ingredient>Queso rallado</ingredient>
+      <ingredient>Leche</ingredient>
+      <ingredient>Huevos</ingredient>
+      <ingredient>Sal</ingredient>
+    </ingredients>
+    <instructions>
+      Mezcla los ingredientes hasta formar una masa homogénea. Forma bolitas y hornéalas hasta que estén doradas.
+    </instructions>
+  </recipe>
+    <recipe id="24">
+    <name>Brigadeiros</name>
+    <ingredients>
+      <ingredient>Leche condensada</ingredient>
+      <ingredient>Cacao en polvo</ingredient>
+      <ingredient>Mantequilla</ingredient>
+      <ingredient>Grageas de chocolate</ingredient>
+    </ingredients>
+    <instructions>
+      Cocina la leche condensada con cacao y mantequilla hasta que espese. Forma bolitas y cúbrelas con grageas.
+    </instructions>
+  </recipe>
+  <recipe id="25">
+    <name>Acarajé</name>
+    <ingredients>
+      <ingredient>Frijoles carita</ingredient>
+      <ingredient>Cebolla</ingredient>
+      <ingredient>Ajo</ingredient>
+      <ingredient>Aceite de palma</ingredient>
+      <ingredient>Camarones secos</ingredient>
+    </ingredients>
+    <instructions>
+      Muele los frijoles con cebolla y ajo. Forma bolitas y fríelas en aceite de palma. Rellena con camarones secos.
+    </instructions>
+  </recipe>
+  <recipe id="26">
+    <name>Coxinha</name>
+    <ingredients>
+      <ingredient>Pechuga de pollo desmenuzada</ingredient>
+      <ingredient>Masa de harina</ingredient>
+      <ingredient>Queso crema</ingredient>
+      <ingredient>Pan rallado</ingredient>
+      <ingredient>Aceite para freír</ingredient>
+    </ingredients>
+    <instructions>
+      Forma las coxinhas con el pollo desmenuzado y queso crema. Reboza con pan rallado y fríelas hasta que estén doradas.
+    </instructions>
+  </recipe>
+  <recipe id="27">
+    <name>Farofa</name>
+    <ingredients>
+      <ingredient>Harina de mandioca</ingredient>
+      <ingredient>Mantequilla</ingredient>
+      <ingredient>Cebolla</ingredient>
+      <ingredient>Tocino</ingredient>
+      <ingredient>Plátanos</ingredient>
+    </ingredients>
+    <instructions>
+      Sofríe la cebolla, tocino y plátanos en mantequilla. Añade la harina de mandioca y cocina hasta que esté dorada.
+    </instructions>
+  </recipe>
+  <recipe id="28">
+    <name>Vatapá</name>
+    <ingredients>
+      <ingredient>Pan rallado</ingredient>
+      <ingredient>Leche de coco</ingredient>
+      <ingredient>Camarones</ingredient>
+      <ingredient>Maní molido</ingredient>
+      <ingredient>Aceite de palma</ingredient>
+      <ingredient>Cebolla</ingredient>
+    </ingredients>
+    <instructions>
+      Cocina los ingredientes hasta formar una pasta espesa. Sirve como acompañamiento de acarajé o arroz.
+    </instructions>
+  </recipe>
+  <recipe id="29">
+    <name>Caipirinha</name>
+    <ingredients>
+      <ingredient>Lima</ingredient>
+      <ingredient>Azúcar</ingredient>
+      <ingredient>Hielo</ingredient>
+      <ingredient>Cachaça</ingredient>
+    </ingredients>
+    <instructions>
+      Machaca la lima con azúcar en un vaso. Añade hielo y cachaça, mezcla y sirve.
+    </instructions>
+  </recipe>
+  <recipe id="30">
+    <name>Tapioca</name>
+    <ingredients>
+      <ingredient>Harina de tapioca</ingredient>
+      <ingredient>Mantequilla</ingredient>
+      <ingredient>Queso</ingredient>
+      <ingredient>Leche condensada</ingredient>
+    </ingredients>
+    <instructions>
+      Cocina la harina en una sartén caliente hasta formar una crepa. Rellena con queso o leche condensada y dobla antes de servir.
+    </instructions>
+  </recipe>
+</recipes>
